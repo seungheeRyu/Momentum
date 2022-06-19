@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+  }
+
+#todo-form input {
+     width: 200px;
+  }
+
+#todo-list span {
+    margin-right: 10px;
+}
